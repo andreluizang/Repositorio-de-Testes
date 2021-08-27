@@ -7,6 +7,10 @@ public class mynewproject {
 		System.out.println("Hello World!");
 		// Fazendo o push
 		System.out.println("Vou fazer o push");
-	}
+		// Testando outra vez aqui
+		System.out.println("CÓDIGO CÓDIGO CÓDIGO");
+		// Terceiro teste lol
+		System.out.println("ANGEL SINGING LALALALA");
+		}
 
 }
