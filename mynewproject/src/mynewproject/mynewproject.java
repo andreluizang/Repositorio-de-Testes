@@ -3,14 +3,12 @@ package mynewproject;
 public class mynewproject {
 	
 	public static void main (String arts[]) {
-		// Criação do projeto
+		// CriaÃ§Ã£o do projeto
 		System.out.println("Hello World!");
 		// Fazendo o push
 		System.out.println("Vou fazer o push");
 		// Testando outra vez aqui
-		System.out.println("CÓDIGO CÓDIGO CÓDIGO");
-		// Terceiro teste lol
-		System.out.println("ANGEL SINGING LALALALA");
+		System.out.println("CÃ“DIGO CÃ“DIGO CÃ“DIGO");
 		}
 
 }
